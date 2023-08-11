@@ -18,7 +18,7 @@ function Auth(props) {
   };
   return (
     <div className="auth">
-      <h2>Sign In With Google To Continue</h2git>
+      <h2>Sign In With Google To Continue</h2>
       <button onClick={signInWithGoogle}>Sign In With Google </button>
     </div>
   );
